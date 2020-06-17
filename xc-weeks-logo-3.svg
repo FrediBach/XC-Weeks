@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>512</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="512" sketch:type="MSArtboardGroup" fill="#FFFFFF">
+            <path d="M414.950619,38 L471.99753,38 C494.090284,38 512,55.9128689 512,78.0044629 L512,471.995537 C512,494.089392 494.096549,512 471.99753,512 L40.0024704,512 C17.9097161,512 0,494.087131 0,471.995537 L0,78.0044629 C0,55.9106081 17.9034513,38 40.0024704,38 L97.049385,38 L97.049385,38 C97.0165906,38.6644398 97,39.3331434 97,40.0057235 L97,104.994277 C97,127.092928 114.90861,145 137,145 C159.096247,145 177,127.088828 177,104.994277 L177,40.0057235 C177,39.3331373 176.983411,38.6644339 176.950619,38 L335.049385,38 C335.016591,38.6644398 335,39.3331434 335,40.0057235 L335,104.994277 C335,127.092928 352.90861,145 375,145 C397.096247,145 415,127.088828 415,104.994277 L415,40.0057235 C415,39.3331373 414.983411,38.6644339 414.950619,38 L414.950619,38 Z M36,220.995986 C36,198.906813 53.9027318,181 75.9990646,181 L437.000935,181 C459.091809,181 477,198.899217 477,220.995986 L477,436.004014 C477,458.093187 459.097268,476 437.000935,476 L75.9990646,476 C53.9081912,476 36,458.100783 36,436.004014 L36,220.995986 Z" id="Rectangle-1" sketch:type="MSShapeGroup"></path>
+            <path d="M152,108.5 L152,20.2956917 C152,12.0114205 145.284271,5.29569173 137,5.29569173 C128.715729,5.29569173 122,12.0114205 122,20.2956917 L122,108.5 C122,116.784271 128.715729,123.5 137,123.5 C145.284271,123.5 152,116.784271 152,108.5 L152,108.5 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M390,108.5 L390,20.2956917 C390,12.0114205 383.284271,5.29569173 375,5.29569173 C366.715729,5.29569173 360,12.0114205 360,20.2956917 L360,108.5 C360,116.784271 366.715729,123.5 375,123.5 C383.284271,123.5 390,116.784271 390,108.5 L390,108.5 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <text id="XC" sketch:type="MSTextLayer" font-family="Probert" font-size="144" font-weight="normal" sketch:alignment="middle">
+                <tspan x="133.453125" y="327">XC</tspan>
+            </text>
+            <text id="WEEKS" sketch:type="MSTextLayer" font-family="Arial Unicode MS" font-size="90" font-weight="normal" sketch:alignment="middle" letter-spacing="10">
+                <tspan x="73.9682617" y="425">WEEK</tspan>
+                <tspan x="379.002441" y="425">S</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
